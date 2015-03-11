@@ -343,6 +343,7 @@ Loomio::Application.routes.draw do
 
   scope controller: 'help' do
     get :help
+    get :markdown
   end
 
   get '/detect_locale' => 'detect_locale#show'
