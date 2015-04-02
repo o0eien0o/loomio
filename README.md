@@ -4,6 +4,11 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/loomio/loomio.svg)](https://codeclimate.com/github/loomio/loomio) 
 [![Dependency Status](https://img.shields.io/gemnasium/loomio/loomio.svg)](https://gemnasium.com/loomio/loomio) 
 
+Ceci est un fork de loomia créé dans le cadre du projet rebootfr
+Les idées de nouvelles features sont à discuter sur l'IRC.
+Checker TODO.txt pour voir ce qui est en cours
+
+*************************
 Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. If you'd like to find out more, check out [Loomio.org](https://www.loomio.org).
 
 - Issues and __bugs__ should be [reported here](http://github.com/loomio/loomio/issues)
