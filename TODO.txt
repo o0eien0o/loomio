@@ -1,0 +1,7 @@
+DISCUSSION:
+1) Autoriser l'edit de la description seulement au créateur du sujet
+2) Bloquer l'edit 30 min après la création du projet
+3) Créer une fonctionnalité similaire au "attacher une publication" de facebook dans les groupe:
+   Le créateur du sujet peut compléter sa description/résumer les dicussions en cours etc. dans un billet qui sera affiché juste sous la descritpion
+4) Créer une fonctionnalité de lock du topic:
+   Pour relancer un topic similaire/un vote similaire sans perdre les discussions passées, lock du sujet (plus de mofications des commentaires ou de nouveaux commentaires, création d'un nouveau topic, et lien dans ce nouveau topix vers l'ancien, avec tout le fil de discussion.
