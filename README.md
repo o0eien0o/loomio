@@ -4,7 +4,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/loomio/loomio.svg)](https://codeclimate.com/github/loomio/loomio) 
 [![Dependency Status](https://img.shields.io/gemnasium/loomio/loomio.svg)](https://gemnasium.com/loomio/loomio) 
 
-Ceci est un fork de loomia créé dans le cadre du projet rebootfr
+Ceci est un fork de loomio créé dans le cadre du projet rebootfr
 Les idées de nouvelles features sont à discuter sur l'IRC.
 Checker TODO.txt pour voir ce qui est en cours
 
